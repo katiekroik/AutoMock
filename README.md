@@ -30,6 +30,6 @@ new AutoMock(t, t2);
 ```
 
 2. Or you can add a breakpoint into your code and evaluate the expression:
-![set breakpoint](Evaluate_1.png =500x250)
-![evaluate](Evaluate_2.png =500x250)
-![evaluate snapshot](Evaluate_3.png =500x250)
+![set breakpoint](Evaluate_1.png)
+![evaluate](Evaluate_2.png)
+![evaluate snapshot](Evaluate_3.png)
